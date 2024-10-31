@@ -25,3 +25,16 @@
 #container a {
   text-decoration: none;
 }
+
+ion-label {
+  font-weight: bold;
+  margin: 10px;  
+}
+
+.preco, .data, .estrela {
+  margin: 10px;
+}
+
+ion-input {
+  margin-top: 20px;
+}
